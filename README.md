@@ -12,5 +12,5 @@
 
 | First item  | Second item | Third item    |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Data Science      | Power BI      | Excel   |
+| Machine Learning  | Tableu        | R      |
