@@ -14,3 +14,12 @@
 | :---        |    :----:   |          ---: |
 | Data Science      | Power BI      | Excel   |
 | Machine Learning  | Tableu        | R      |
+
+# My 1st Semester Goals
+dl>
+  <dt>First Semester</dt>
+  <dd>Finish all core courses and electives.</dd>
+  <dt>First Semester</dt>
+  <dd>Get a good GPA. </dd>
+  <dd>At at least two public events.</dd>
+</dl>
