@@ -1,4 +1,4 @@
-# Table of Content
+# My First Project
 {
   "firstName": "Marvin",
   "lastName": "Nukunu-Attachey",
