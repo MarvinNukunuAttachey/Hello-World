@@ -9,3 +9,8 @@
 1. First item
 2. Second item
 3. Third item
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
