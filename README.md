@@ -16,7 +16,7 @@
 | Machine Learning  | Tableu        | R      |
 
 # My 1st Semester Goals
-dl>
+<dl>
   <dt>First Semester</dt>
   <dd>Finish all core courses and electives.</dd>
   <dt>First Semester</dt>
