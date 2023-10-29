@@ -23,3 +23,8 @@
   <dd>Get a good GPA. </dd>
   <dd>At at least two public events.</dd>
 </dl>
+
+# My 2nd Semester Goals
+- [x] Finish all core courses and electives
+- [ ] Summer research work
+- [ ] Internship
